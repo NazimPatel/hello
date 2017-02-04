@@ -15,10 +15,12 @@ class ViewController: UIViewController {
     
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-
+    override func viewDidAppear(_ animated: Bool) {
+        
+    }
     
+    override func viewWillAppear(_ animated: Bool) {
+        
     }
 
 
